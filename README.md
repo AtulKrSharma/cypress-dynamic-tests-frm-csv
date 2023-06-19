@@ -53,4 +53,3 @@ csvUsers.forEach((user) => {
   })
 ```
 
-![CSV spec](./images/csv-using-WebpackLoader.png)
